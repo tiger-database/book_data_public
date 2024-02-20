@@ -1,0 +1,28 @@
+[
+  {
+    "ISBN":"cv-du-tigre-noir",
+    "title":"Curriculum Vitæ",
+    "authors":["Le Tigre Noir"],
+    "authorsWithLink":[{"author":"Le Tigre Noir","link":"https://www.linkedin.com/in/le-tigre-noir-8339342a5"}],
+    "cover":"book_covers\\en-vedette\\cv-du-tigre-noir.jpg",
+    "description":"Moi, le Tigre Noir, je vous adresse ce message pour vous exprimer mon vif intérêt à rejoindre une entreprise. Fort d’une expérience solide dans la création de sites web et d’applications mobiles, ainsi que d’une polyvalence remarquable en matière de création de contenu, de rédaction et de graphisme, je suis convaincu de pouvoir apporter une contribution significative à des projets. Actuellement à la recherche d’une opportunité professionnelle me permettant d’améliorer ma situation financière et de me garantir un logement, je suis motivé et prêt à mettre en avant mes compétences techniques et créatives au service d’objectifs.",
+    "mainCategories":["En vedette"],
+    "socialLinks":["https://www.linkedin.com/in/le-tigre-noir-8339342a5","https://www.facebook.com/people/LeTigre-Noir/pfbid0nA3yt7QLCTae9xcUSFsLr2Any1BuEhMijgPC5BegVHbmY5zgQexPMr35ZCfPVLk9l","https://www.wattpad.com/user/best_tiger_ever","https://www.instagram.com/best_tiger_ever"]
+  },
+  {
+    "ISBN":"356094024-le-cafe-des-possibles",
+    "title":"Le Café des Possibles",
+    "authors":["Le Tigre Noir"],
+    "authorsWithLink":[{"author":"Le Tigre Noir","link":"https://www.wattpad.com/user/best_tiger_ever"}],
+    "cover":"book_covers\\en-vedette\\356094024-le-cafe-des-possibles.gif",
+    "description":"<p>Et si les plus grandes aventures naissaient d'une simple commande de café ?</p><p>Dans un chaleureux café-librairie, niché en plein centre-ville, chaque petit recoin recèle un conte merveilleux. Ici, un auteur en quête d'inspiration croise le chemin d'une serveuse passionnée des mots, promesse d'un duo bouillonnant. Semaine après semaine, entre tasses renversées et muffins moelleux, ils tissent ensemble des récits captivants où l'humour côtoie le fantastique : un alien en recherche de cupcakes au chocolat, un prince charmant désarmé par une sorcière au cœur tendre, un soldat amnésique qui redécouvre la vie dans un village... Les pages tournent, les sourires fusent, et entre deux espressos, ils apprennent que les plus belles histoires sont parfois écrites en tandem.</p><u>P.S. L’auteur est à la recherche de libraires désireux de publier périodiquement les nouvelles de ce recueil.</u>",
+    "mainCategories":["En vedette","Littérature"],
+    "subcategories":["Roman québécois","Fantastique/SF/Horreur"],
+    "language":"Français",
+    "publisher":"Recherché",
+    "authorBio":"<p>Dans les annales de la littérature, il y a un nom qui brille tel un astre dans l’univers des mots, un nom qui éclipse tous les autres avec son éclat littéraire inégalé : celui du Tigre Noir, le Maître des Mots, l’Architecte de l’Imagination, le Titan de la Typographie !</p><p>Né dans une bibliothèque au clair de lune, le Tigre Noir a été bercé dès son plus jeune âge par le murmure des pages tournées. On dit que sa première berceuse fut le son doux et apaisant du stylo grattant le papier, alors qu’il rédigeait son premier roman… à l’âge de deux ans !</p><p>Dès lors, sa plume était comme une baguette magique, transformant chaque mot en un enchantement, chaque phrase en un tableau vivant, et chaque paragraphe en une odyssée épique. Ses histoires captivaient les lecteurs au point qu’ils en oubliaient de respirer, et ses métaphores étaient tellement éblouissantes qu’elles faisaient pâlir de jalousie le soleil lui-même.</p><p>Son influence sur la littérature est telle que même les dictionnaires ont dû réviser leur définition du mot « génie » pour inclure sa photo à côté. Les bibliothèques du monde entier abritent des autels dédiés à son nom, où les lecteurs viennent en pèlerinage pour trouver l’illumination littéraire.</p><p>En somme, le Tigre Noir n’est pas seulement le meilleur auteur de tous les temps, il est l’essence même de la littérature, un phare de créativité dans un océan d’ordinaire. Et tandis que le temps passe, son héritage continue de briller, illuminant le chemin pour les écrivains et les lecteurs de demain.</p>",
+    "authorImg":"author_images\\le-tigre-noir.gif",
+    "socialLinks":["https://www.wattpad.com/user/best_tiger_ever","https://www.instagram.com/best_tiger_ever","https://www.facebook.com/people/LeTigre-Noir/pfbid0nA3yt7QLCTae9xcUSFsLr2Any1BuEhMijgPC5BegVHbmY5zgQexPMr35ZCfPVLk9l"],
+    "sellers":["https://www.wattpad.com/1397467783-le-caf%C3%A9-des-possibles-prologue"]
+  }
+]
