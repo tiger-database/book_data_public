@@ -1,0 +1,41 @@
+{
+  "litterature": [
+    "Contes/Légendes",
+    "Dictionnaire/Anthologie",
+    "Essais & critiques littéraires",
+    "Fantastique/SF/Horreur",
+    "Nouvelles/Lettres",
+    "Poésie",
+    "Roman Polar/Suspense",
+    "Roman canadien et étranger",
+    "Roman québécois",
+    "Romans et nouvelles érotiques",
+    "Récits",
+    "Théâtre"
+  ],
+  "wattpad": [
+    "Action",
+    "Aléatoire",
+    "Aventure",
+    "ChickLit",
+    "Classiques",
+    "Fanfiction",
+    "Fantastique",
+    "Fantasy",
+    "Fiction générale",
+    "Horreur",
+    "Humour",
+    "Loup-garou",
+    "Mystère",
+    "Non-Fiction",
+    "Nouvelles",
+    "Poésie",
+    "Roman d'amour",
+    "Roman historique",
+    "Roman pour adolescents",
+    "Science-fiction",
+    "Spirituel",
+    "Thriller",
+    "Vampire"
+  ]
+}
