@@ -36,6 +36,37 @@
     "Sciences",
     "Sport"
   ],
+  "essais": [
+    "Actualité/Politique",
+    "Affaires criminelles",
+    "Anthropologie/Archéologie",
+    "Droit/Lois",
+    "Encycl./Atlas/Dictionnaire",
+    "Femmes",
+    "Geographie humaine",
+    "Géographie",
+    "Histoire",
+    "Journalisme",
+    "LGBTQ+",
+    "Philosophie/ Métaphysique",
+    "Sciences sociales",
+    "Sexologie",
+    "Éducation/Pédagogie"
+  ],
+  "faune-flore": [
+    "Animaux de compagnie",
+    "Animaux de la ferme",
+    "Aquariophilie",
+    "Botanique/Flore",
+    "Divers",
+    "Encycl./Atlas/Dictionnaire",
+    "Insectes/Reptiles/Batraciens",
+    "Mammifères",
+    "Nature préhistorique",
+    "Oiseaux",
+    "Respect des animaux",
+    "Vie aquatique"
+  ],
   "jeunesse": [
     "0-3 ans",
     "3-6 ans",
@@ -70,6 +101,33 @@
     "Romans et nouvelles érotiques",
     "Récits",
     "Théâtre"
+  ],
+  "psychologie": [
+    "Bien-être et spiritualité",
+    "Croissance personnelle",
+    "Pensées/Proverbes",
+    "Psychologie/Psychiatrie",
+    "Rêves"
+  ],
+  "science-technologie": [
+    "Agriculture/Agriproduction",
+    "Astronomie",
+    "Changement climatique",
+    "Chimie/Physique/Astrophysique",
+    "Divers",
+    "Eau/Énergie/Ressources",
+    "Encycl./Atlas/Dictionnaire",
+    "Génétique",
+    "Géologie/Minéraux/Pierres",
+    "Ingénierie",
+    "Intelligence artificielle",
+    "Mathématiques",
+    "Médecine vétérinaire",
+    "Sciences de la Terre",
+    "Sciences du vivant",
+    "Technologie",
+    "Vulgarisation scientifique",
+    "Écologie/Environnement"
   ],
   "wattpad": [
     "Action",
