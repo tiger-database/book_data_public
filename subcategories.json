@@ -141,6 +141,27 @@
     "Récits",
     "Théâtre"
   ],
+  "loisirs": [
+    "Agendas/Calendriers/Carnets",
+    "Bricolage/Menuiserie",
+    "Calligraphie",
+    "Collections",
+    "Coloriage anti-stress Adultes",
+    "Culture générale/Quiz",
+    "Décoration",
+    "Encycl./Atlas/Dictionnaire",
+    "Humour",
+    "Jardinage/Aménagement",
+    "Jeux de cartes/de table",
+    "Jeux de lettres",
+    "Jeux variés/Passe-temps",
+    "Jeux vidéo/électroniques",
+    "Loisirs créatifs",
+    "Plantes d'intérieur",
+    "Sudoku/Logique/Énigmes",
+    "Techniques peinture/dessin",
+    "Techniques photo/vidéo"
+  ],
   "psychologie": [
     "Bien-être et spiritualité",
     "Croissance personnelle",
@@ -180,6 +201,28 @@
     "Technologie",
     "Vulgarisation scientifique",
     "Écologie/Environnement"
+  ],
+  "sports": [
+    "Activités de plein air",
+    "Athlétisme/Olympisme",
+    "Chasse/Pêche",
+    "Cond.phys./Musculation",
+    "Divers",
+    "Sports aquatiques/nautiques",
+    "Sports combat/Arts martiaux",
+    "Sports d'équipe",
+    "Sports extrêmes",
+    "Sports individuels",
+    "Sports équestres"
+  ],
+  "transports": [
+    "Automobiles/Motos/Vélos",
+    "Avions/Fusées",
+    "Bateaux",
+    "Guides pratiques",
+    "Trains",
+    "Transports/Divers",
+    "Véhicules lourds/Tracteurs"
   ],
   "vie-pratique": [
     "Adolescence",
