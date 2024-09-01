@@ -1,0 +1,28 @@
+[
+  {
+    "ISBN":"le-cafe-des-possibles",
+    "title":"Le Café des Possibles",
+    "authors":["Un Simple Tigre"],
+    "authorsWithLink":[
+      {
+        "author":"Un Simple Tigre",
+        "link":"https://www.wattpad.com/user/un-simple-tigre"
+      }
+    ],
+    "cover":"book_covers\\le-cafe-des-possibles.gif",
+    "description":"<p>Et si les plus grandes aventures naissaient d'une simple commande de café ?</p><p>Dans un chaleureux café-librairie, niché en plein centre-ville, chaque recoin recèle un conte merveilleux. Ici, un auteur en quête d'inspiration croise le chemin d'une serveuse passionnée des mots, promesse d'un duo bouillonnant. Semaine après semaine, entre tasses renversées et muffins moelleux, ils tissent ensemble des récits captivants où l'humour côtoie le fantastique : un alien en recherche de cupcakes au chocolat, un prince charmant désarmé par une sorcière au cœur tendre, un soldat amnésique qui redécouvre la vie dans un village... Les pages tournent, les sourires fusent, et entre deux espressos, ils apprennent que les plus belles histoires sont parfois écrites en tandem.</p>",
+    "mainCategories":["En vedette","Wattpad"],
+    "subcategories":["Nouvelles"],
+    "socialLinks":[
+      "https://www.wattpad.com/user/un-simple-tigre",
+      "https://www.instagram.com/un_simple_tigre",
+      "https://linktr.ee/un_simple_tigre"
+    ],
+    "sellers":[
+      {
+        "title":"Wattpad",
+        "link":"https://www.wattpad.com/1434986716-le-caf%C3%A9-des-possibles-prologue"
+      }
+    ]
+  }
+]
